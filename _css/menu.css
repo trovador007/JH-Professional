@@ -1,0 +1,16 @@
+ul li{
+	list-style:none;
+}
+
+ul{
+	border-style:groove;
+}
+
+li{
+	background-color:white;
+	padding-left:25%;
+}
+
+div{
+	padding-right:80%;
+}
